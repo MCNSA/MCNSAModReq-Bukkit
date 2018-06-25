@@ -1,0 +1,15 @@
+#MCNSA Mod Request Configuration
+
+#Server name
+server-name: Server
+
+#Database connection information
+database-host: localhost
+database-name: mcnsa_modreq
+database-user: mcnsa_modreq
+database-password: mcnsa_modreq
+
+#Discord information
+DiscordEnabled: true
+DiscordModHook: Empty
+DiscordAdminHook: Empty
