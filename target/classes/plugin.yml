@@ -3,6 +3,7 @@ version: 1.0
 author: maboughey (maboughey@gmail.com)
 main: uk.co.maboughey.mcnsamodreq.ModReq
 depend: [MCNSANotes]
+api-version: 1.13
 commands:
     modreq:
         description: Send or view mod requests
